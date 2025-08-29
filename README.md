@@ -1,2 +1,3 @@
-# this chat app like whatsapp
+# this dice game
+
 
